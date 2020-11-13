@@ -3,11 +3,14 @@
 
 ### Create an APP that gets and displays information from RockSpoon's Search API
 
-The app will have two screens:
-The first one allows the user to search for items (plates) using RockSpoon Search API (https://dev-api.rockspoon.io/search/v2/composed). The search can be performed using the search text field. 
-The second screen displays information when an item is selected from the list.
-Please consider the mockup below as a guide on how the page should be created.
-* The hide option will remove that entry from the list. Ideally this should be persistent across multiple searches. In other words, if the user decides to hide on item it won't appear anymore. 
+- The app will have two screens:
+  - The first one allows the user to search for items (plates) using RockSpoon Search API (https://dev-api.rockspoon.io/search/v2/composed). The search can be performed using the search text field. 
+  - The second screen displays information when an item is selected from the list.
+
+
+- The hide option will remove that entry from the list. Ideally this should be persistent across multiple searches. In other words, if the user decides to hide on item it won't appear anymore. 
+- Please consider the mockup below as a guide on how the page should be created.
+
 
 ![Mobile.png](https://github.com/spoonrocker/cart-mobile-template/blob/main/Mobile.png)
 
