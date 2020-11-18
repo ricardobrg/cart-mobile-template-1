@@ -16,7 +16,7 @@
 
 ### **The APP must have** ###
 
-* __List of items page__: You can get it using the following call, replacing "burger" by the search term provided by the user ([Swagger file:] (https://github.com/spoonrocker/cart-mobile-template/blob/main/search-swagger.yaml)):
+* __List of items page__: You can get it using the following call, replacing "burger" by the search term provided by the user (check [Swagger file](https://github.com/spoonrocker/cart-mobile-template/blob/main/search-swagger.yaml)) :
 
 ```sh
 curl --location --request POST 'https://stg-api.rockspoon.io/search/v2/composed' \
@@ -38,7 +38,7 @@ curl --location --request POST 'https://stg-api.rockspoon.io/search/v2/composed'
 * When selecting an item, the item details page must be displayed.
    
   
-- __Item details page__. You can get it using the following call replacing {itemId} by the id of the item returned on the search ([Swagger file:] (https://github.com/spoonrocker/cart-mobile-template/blob/main/catalog-swagger.yaml)): 
+- __Item details page__. You can get it using the following call replacing {itemId} by the id of the item returned on the search (check [Swagger file](https://github.com/spoonrocker/cart-mobile-template/blob/main/catalog-swagger.yaml)): 
 ```sh
 curl 'https://stg-api.rockspoon.io/catalog/consumer/item/{itemId}' \
   -H 'Accept: application/json' \
