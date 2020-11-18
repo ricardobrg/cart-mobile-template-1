@@ -4,7 +4,7 @@
 ### Create an APP that gets and displays information from RockSpoon's Search API
 
 - The app will have two screens:
-  - The first one allows the user to search for items (plates) using RockSpoon Search API (https://dev-api.rockspoon.io/search/v2/composed). The search can be performed using the search text field. 
+  - The first one allows the user to search for items (plates) using RockSpoon Search API. The search can be performed using the search text field. 
   - The second screen displays information when an item is selected from the list.
 
 
@@ -38,7 +38,7 @@ curl --location --request POST 'https://stg-api.rockspoon.io/search/v2/composed'
 * When selecting an item, the item details page must be displayed.
    
   
-- __Item details page__. You can get it using the following call replacing {itemId} by the id of the item returned on the search (check [Swagger file](https://github.com/spoonrocker/cart-mobile-template/blob/main/catalog-swagger.yaml)): 
+- __Item details page__. You can get it using the following call replacing {itemId} by the id of the item returned on the search (check [Swagger file](https://github.com/spoonrocker/cart-mobile-template/blob/main/catalog-swagger.yaml)) : 
 ```sh
 curl 'https://stg-api.rockspoon.io/catalog/consumer/item/{itemId}' \
   -H 'Accept: application/json' \
