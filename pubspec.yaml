@@ -1,0 +1,24 @@
+name: rockspoon_cart_mobile
+description: RockSpoon Cart Mobile Test
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^3.5.1
+  build_runner:
+  build_resolvers: 1.4.4
+
+flutter:
+  uses-material-design: true
+
