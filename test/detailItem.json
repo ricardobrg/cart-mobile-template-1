@@ -1,1 +1,109 @@
-{"alcoholicAttributes":{"age":0,"alcoholByVolume":0,"grape":null,"vintage":0},"applyTaxDeliveryTakeout":false,"availability":[],"availableFor":["catering","curbside","delivery","dinein","takeout"],"beverageAttributes":{},"category":"food","course":6,"createdAt":"2020-04-07T00:29:06.656Z","description":"Simple Burger with salad and one steak","id":"5e8bc95229f78ea78ea8b9d7","isAvailable":false,"photos":[{"contentType":"jpeg","id":"5e8bc9550dd5865b75765a92","resolutions":{"default":{"height":300,"url":"https://storage.googleapis.com/rockspoon-stg-bucket/no_5e8bc9550dd5865b75765a92.jpeg","width":300},"high":{"height":1000,"url":"https://storage.googleapis.com/rockspoon-stg-bucket/hi_5e8bc9550dd5865b75765a92.jpeg","width":1000},"low":{"height":80,"url":"https://storage.googleapis.com/rockspoon-stg-bucket/lo_5e8bc9550dd5865b75765a92.jpeg","width":80}}}],"routing":["bundle","Edouard"],"sizesAndPrices":[{"bundleItemSizeAttributes":null,"bundleSectionSizeAttributes":null,"id":"5ea1b11bc8393636ebc2fd81","menuAttributes":[{"index":0,"isVariablePrice":false,"menuId":"5e4ff40b4866fc56b1ff9ba0","menuSectionId":"5e4ff91a4866fc56b1ff9bd1","menuType":"standard","price":400}],"name":"small"},{"bundleItemSizeAttributes":null,"bundleSectionSizeAttributes":null,"id":"5ea1b11bc8393636ebc2fd82","menuAttributes":[{"index":0,"isVariablePrice":false,"menuId":"5e4ff40b4866fc56b1ff9ba0","menuSectionId":"5e4ff91a4866fc56b1ff9bd1","menuType":"standard","price":2000}],"name":"medium"},{"bundleItemSizeAttributes":null,"bundleSectionSizeAttributes":null,"id":"5ea1b11bc8393636ebc2fd83","menuAttributes":[{"index":0,"isVariablePrice":false,"menuId":"5e4ff40b4866fc56b1ff9ba0","menuSectionId":"5e4ff91a4866fc56b1ff9bd1","menuType":"standard","price":800}],"name":"large"}],"subcategory":"","title":"Simple Burger","type":["menu","side"],"updatedAt":"2020-11-12T08:22:45.927Z","venueId":"5d1f43d60314640d77cfdb46"}
+{
+  "alcoholicAttributes": {
+    "age": 0,
+    "alcoholByVolume": 0,
+    "grape": null,
+    "vintage": 0
+  },
+  "applyTaxDeliveryTakeout": false,
+  "availability": [],
+  "availableFor": [
+    "catering",
+    "curbside",
+    "delivery",
+    "dinein",
+    "takeout"
+  ],
+  "beverageAttributes": {},
+  "category": "food",
+  "course": 6,
+  "createdAt": "2020-04-07T00:29:06.656Z",
+  "description": "Simple Burger with salad and one steak",
+  "id": "5e8bc95229f78ea78ea8b9d7",
+  "isAvailable": false,
+  "photos": [
+    {
+      "contentType": "jpeg",
+      "id": "5e8bc9550dd5865b75765a92",
+      "resolutions": {
+        "default": {
+          "height": 300,
+          "url": "https://storage.googleapis.com/rockspoon-stg-bucket/no_5e8bc9550dd5865b75765a92.jpeg",
+          "width": 300
+        },
+        "high": {
+          "height": 1000,
+          "url": "https://storage.googleapis.com/rockspoon-stg-bucket/hi_5e8bc9550dd5865b75765a92.jpeg",
+          "width": 1000
+        },
+        "low": {
+          "height": 80,
+          "url": "https://storage.googleapis.com/rockspoon-stg-bucket/lo_5e8bc9550dd5865b75765a92.jpeg",
+          "width": 80
+        }
+      }
+    }
+  ],
+  "routing": [
+    "bundle",
+    "Edouard"
+  ],
+  "sizesAndPrices": [
+    {
+      "bundleItemSizeAttributes": null,
+      "bundleSectionSizeAttributes": null,
+      "id": "5ea1b11bc8393636ebc2fd81",
+      "menuAttributes": [
+        {
+          "index": 0,
+          "isVariablePrice": false,
+          "menuId": "5e4ff40b4866fc56b1ff9ba0",
+          "menuSectionId": "5e4ff91a4866fc56b1ff9bd1",
+          "menuType": "standard",
+          "price": 400
+        }
+      ],
+      "name": "small"
+    },
+    {
+      "bundleItemSizeAttributes": null,
+      "bundleSectionSizeAttributes": null,
+      "id": "5ea1b11bc8393636ebc2fd82",
+      "menuAttributes": [
+        {
+          "index": 0,
+          "isVariablePrice": false,
+          "menuId": "5e4ff40b4866fc56b1ff9ba0",
+          "menuSectionId": "5e4ff91a4866fc56b1ff9bd1",
+          "menuType": "standard",
+          "price": 2000
+        }
+      ],
+      "name": "medium"
+    },
+    {
+      "bundleItemSizeAttributes": null,
+      "bundleSectionSizeAttributes": null,
+      "id": "5ea1b11bc8393636ebc2fd83",
+      "menuAttributes": [
+        {
+          "index": 0,
+          "isVariablePrice": false,
+          "menuId": "5e4ff40b4866fc56b1ff9ba0",
+          "menuSectionId": "5e4ff91a4866fc56b1ff9bd1",
+          "menuType": "standard",
+          "price": 800
+        }
+      ],
+      "name": "large"
+    }
+  ],
+  "subcategory": "",
+  "title": "Simple Burger",
+  "type": [
+    "menu",
+    "side"
+  ],
+  "updatedAt": "2020-11-12T08:22:45.927Z",
+  "venueId": "5d1f43d60314640d77cfdb46"
+}

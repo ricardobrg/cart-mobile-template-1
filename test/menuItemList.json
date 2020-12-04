@@ -1,1 +1,286 @@
-{"entity":"item","hasNext":false,"page":1,"results":{"availableTags":null,"items":[{"availableFor":["catering","delivery","takeout","dine-in","curbside"],"id":"5e8bc95229f78ea78ea8b9d7","menuId":"5e4ff40b4866fc56b1ff9ba0","name":"Simple Burger","photo":"https://storage.googleapis.com/rockspoon-stg-bucket/no_5e8bc9550dd5865b75765a92.jpeg","restaurantName":"Indigo on the Roof","sectionIds":["5e4ff91a4866fc56b1ff9bd1"],"location":{"latitude":37.427995,"longitude":-122.129606},"prices":[{"amount":400,"value":400,"currency":{"decimal":2,"symbol":"$","type":"USD"}},{"amount":2000,"value":2000,"currency":{"decimal":2,"symbol":"$","type":"USD"}},{"amount":800,"value":800,"currency":{"decimal":2,"symbol":"$","type":"USD"}}],"rating":5,"tags":[{"name":"meal type\u003eappetizer"},{"name":"food type\u003eburrito"},{"name":"diet\u003eatkins"},{"name":"food\u003e"},{"name":"item\u003eSimple Burger"}],"venueId":"5d1f43d60314640d77cfdb46"},{"availableFor":["catering","delivery","takeout","dine-in","curbside"],"id":"5e8fc904f2d4ba67ce89ddd2","menuId":"5e4ff40b4866fc56b1ff9ba0","name":"test burger 1","restaurantName":"Indigo on the Roof","sectionIds":["5e5fd0f43cee33874a8e37ac"],"location":{"latitude":37.427995,"longitude":-122.129606},"prices":[{"amount":1000,"value":1000,"currency":{"decimal":2,"symbol":"$","type":"USD"}}],"rating":5,"tags":[{"name":"allergen\u003etrace of eewewe"},{"name":"food\u003e"},{"name":"item\u003etest burger 1"}],"venueId":"5d1f43d60314640d77cfdb46"},{"availableFor":["catering","delivery","takeout","dine-in","curbside"],"id":"5ea31070c8393636ebc3065d","menuId":"5e4ff40b4866fc56b1ff9ba0","name":"Burger","restaurantName":"Indigo on the Roof","sectionIds":["5e4ff91a4866fc56b1ff9bd1"],"location":{"latitude":37.427995,"longitude":-122.129606},"prices":[{"amount":1500,"value":1500,"currency":{"decimal":2,"symbol":"$","type":"USD"}}],"rating":5,"tags":[{"name":"meal type\u003eappetizer"},{"name":"diet\u003ehigh protein"},{"name":"diet\u003elow calorie"},{"name":"food\u003e"},{"name":"item\u003eBurger"}],"venueId":"5d1f43d60314640d77cfdb46"}],"tags":null,"tagsPagination":null,"venues":[{"availableFor":["dine-in","takeout","delivery","catering"],"description":"Indigo is a different experience!! The best of all!","gallery":["https://storage.googleapis.com/rockspoon-dev-bucket/hi_5da5d116c4766dd8171c6795.png","https://storage.googleapis.com/rockspoon-stg-bucket/hi_5e78bff10dd5865b757659f1.jpeg","https://storage.googleapis.com/rockspoon-stg-bucket/hi_5e8e80fa0dd5865b75765a94.jpeg","https://storage.googleapis.com/rockspoon-stg-bucket/hi_5ee507ae72d3347cf754863d.jpeg","https://storage.googleapis.com/rockspoon-stg-bucket/hi_5fadb8bf3227a9aefe104363.jpeg"],"id":"5d1f43d60314640d77cfdb46","location":{"latitude":37.427995,"longitude":-122.129606},"maxPrice":{"amount":5008,"value":5008,"currency":{"decimal":2,"symbol":"$","type":"USD"}},"minPrice":{"amount":50,"value":50,"currency":{"decimal":2,"symbol":"$","type":"USD"}},"name":"Indigo on the Roof","openNow":true,"photo":"https://storage.googleapis.com/rockspoon-stg-bucket/no_5fad9f003227a9aefe10435f.jpeg","tags":[{"name":"facility\u003ewheel chair accessible","type":"facility"},{"name":"facility\u003egood for meetings","type":"facility"},{"name":"facility\u003emusic","type":"facility"},{"name":"facility\u003efor family","type":"facility"},{"name":"facility\u003egood for events","type":"facility"},{"name":"facility\u003ehappy hour","type":"facility"},{"name":"payment_method\u003evisa","type":"payment_method"},{"name":"payment_method\u003evisa electron","type":"payment_method"},{"name":"payment_method\u003emastercard","type":"payment_method"},{"name":"payment_method\u003eamerican express","type":"payment_method"},{"name":"property\u003ebar","type":"property"},{"name":"property\u003erestaurant","type":"property"},{"name":"property\u003ecafe","type":"property"},{"name":"property\u003esnack bar","type":"property"},{"name":"property\u003ebrasserie","type":"property"},{"name":"venue\u003eIndigo on the Roof","type":"venue"}]}]},"total":3}
+{
+  "entity": "item",
+  "hasNext": false,
+  "page": 1,
+  "results": {
+    "availableTags": null,
+    "items": [
+      {
+        "availableFor": [
+          "catering",
+          "delivery",
+          "takeout",
+          "dine-in",
+          "curbside"
+        ],
+        "id": "5e8bc95229f78ea78ea8b9d7",
+        "menuId": "5e4ff40b4866fc56b1ff9ba0",
+        "name": "Simple Burger",
+        "photo": "https://storage.googleapis.com/rockspoon-stg-bucket/no_5e8bc9550dd5865b75765a92.jpeg",
+        "restaurantName": "Indigo on the Roof",
+        "sectionIds": [
+          "5e4ff91a4866fc56b1ff9bd1"
+        ],
+        "location": {
+          "latitude": 37.427995,
+          "longitude": -122.129606
+        },
+        "prices": [
+          {
+            "amount": 400,
+            "value": 400,
+            "currency": {
+              "decimal": 2,
+              "symbol": "$",
+              "type": "USD"
+            }
+          },
+          {
+            "amount": 2000,
+            "value": 2000,
+            "currency": {
+              "decimal": 2,
+              "symbol": "$",
+              "type": "USD"
+            }
+          },
+          {
+            "amount": 800,
+            "value": 800,
+            "currency": {
+              "decimal": 2,
+              "symbol": "$",
+              "type": "USD"
+            }
+          }
+        ],
+        "rating": 5,
+        "tags": [
+          {
+            "name": "meal type\u003eappetizer"
+          },
+          {
+            "name": "food type\u003eburrito"
+          },
+          {
+            "name": "diet\u003eatkins"
+          },
+          {
+            "name": "food\u003e"
+          },
+          {
+            "name": "item\u003eSimple Burger"
+          }
+        ],
+        "venueId": "5d1f43d60314640d77cfdb46"
+      },
+      {
+        "availableFor": [
+          "catering",
+          "delivery",
+          "takeout",
+          "dine-in",
+          "curbside"
+        ],
+        "id": "5e8fc904f2d4ba67ce89ddd2",
+        "menuId": "5e4ff40b4866fc56b1ff9ba0",
+        "name": "test burger 1",
+        "restaurantName": "Indigo on the Roof",
+        "sectionIds": [
+          "5e5fd0f43cee33874a8e37ac"
+        ],
+        "location": {
+          "latitude": 37.427995,
+          "longitude": -122.129606
+        },
+        "prices": [
+          {
+            "amount": 1000,
+            "value": 1000,
+            "currency": {
+              "decimal": 2,
+              "symbol": "$",
+              "type": "USD"
+            }
+          }
+        ],
+        "rating": 5,
+        "tags": [
+          {
+            "name": "allergen\u003etrace of eewewe"
+          },
+          {
+            "name": "food\u003e"
+          },
+          {
+            "name": "item\u003etest burger 1"
+          }
+        ],
+        "venueId": "5d1f43d60314640d77cfdb46"
+      },
+      {
+        "availableFor": [
+          "catering",
+          "delivery",
+          "takeout",
+          "dine-in",
+          "curbside"
+        ],
+        "id": "5ea31070c8393636ebc3065d",
+        "menuId": "5e4ff40b4866fc56b1ff9ba0",
+        "name": "Burger",
+        "restaurantName": "Indigo on the Roof",
+        "sectionIds": [
+          "5e4ff91a4866fc56b1ff9bd1"
+        ],
+        "location": {
+          "latitude": 37.427995,
+          "longitude": -122.129606
+        },
+        "prices": [
+          {
+            "amount": 1500,
+            "value": 1500,
+            "currency": {
+              "decimal": 2,
+              "symbol": "$",
+              "type": "USD"
+            }
+          }
+        ],
+        "rating": 5,
+        "tags": [
+          {
+            "name": "meal type\u003eappetizer"
+          },
+          {
+            "name": "diet\u003ehigh protein"
+          },
+          {
+            "name": "diet\u003elow calorie"
+          },
+          {
+            "name": "food\u003e"
+          },
+          {
+            "name": "item\u003eBurger"
+          }
+        ],
+        "venueId": "5d1f43d60314640d77cfdb46"
+      }
+    ],
+    "tags": null,
+    "tagsPagination": null,
+    "venues": [
+      {
+        "availableFor": [
+          "dine-in",
+          "takeout",
+          "delivery",
+          "catering"
+        ],
+        "description": "Indigo is a different experience!! The best of all!",
+        "gallery": [
+          "https://storage.googleapis.com/rockspoon-dev-bucket/hi_5da5d116c4766dd8171c6795.png",
+          "https://storage.googleapis.com/rockspoon-stg-bucket/hi_5e78bff10dd5865b757659f1.jpeg",
+          "https://storage.googleapis.com/rockspoon-stg-bucket/hi_5e8e80fa0dd5865b75765a94.jpeg",
+          "https://storage.googleapis.com/rockspoon-stg-bucket/hi_5ee507ae72d3347cf754863d.jpeg",
+          "https://storage.googleapis.com/rockspoon-stg-bucket/hi_5fadb8bf3227a9aefe104363.jpeg"
+        ],
+        "id": "5d1f43d60314640d77cfdb46",
+        "location": {
+          "latitude": 37.427995,
+          "longitude": -122.129606
+        },
+        "maxPrice": {
+          "amount": 5008,
+          "value": 5008,
+          "currency": {
+            "decimal": 2,
+            "symbol": "$",
+            "type": "USD"
+          }
+        },
+        "minPrice": {
+          "amount": 50,
+          "value": 50,
+          "currency": {
+            "decimal": 2,
+            "symbol": "$",
+            "type": "USD"
+          }
+        },
+        "name": "Indigo on the Roof",
+        "openNow": true,
+        "photo": "https://storage.googleapis.com/rockspoon-stg-bucket/no_5fad9f003227a9aefe10435f.jpeg",
+        "tags": [
+          {
+            "name": "facility\u003ewheel chair accessible",
+            "type": "facility"
+          },
+          {
+            "name": "facility\u003egood for meetings",
+            "type": "facility"
+          },
+          {
+            "name": "facility\u003emusic",
+            "type": "facility"
+          },
+          {
+            "name": "facility\u003efor family",
+            "type": "facility"
+          },
+          {
+            "name": "facility\u003egood for events",
+            "type": "facility"
+          },
+          {
+            "name": "facility\u003ehappy hour",
+            "type": "facility"
+          },
+          {
+            "name": "payment_method\u003evisa",
+            "type": "payment_method"
+          },
+          {
+            "name": "payment_method\u003evisa electron",
+            "type": "payment_method"
+          },
+          {
+            "name": "payment_method\u003emastercard",
+            "type": "payment_method"
+          },
+          {
+            "name": "payment_method\u003eamerican express",
+            "type": "payment_method"
+          },
+          {
+            "name": "property\u003ebar",
+            "type": "property"
+          },
+          {
+            "name": "property\u003erestaurant",
+            "type": "property"
+          },
+          {
+            "name": "property\u003ecafe",
+            "type": "property"
+          },
+          {
+            "name": "property\u003esnack bar",
+            "type": "property"
+          },
+          {
+            "name": "property\u003ebrasserie",
+            "type": "property"
+          },
+          {
+            "name": "venue\u003eIndigo on the Roof",
+            "type": "venue"
+          }
+        ]
+      }
+    ]
+  },
+  "total": 3
+}
